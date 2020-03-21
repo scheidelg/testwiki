@@ -1,6 +1,10 @@
 <!--
   -- Name of your wiki
   -- Do NOT remove the leading `#` character.
+  --
+  -- For example:
+  --
+  --    # Greg's Desk
   -->
 
 # Greg's Desk
