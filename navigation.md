@@ -1,5 +1,6 @@
 <!--
   -- Name of your wiki
+  --
   -- Do NOT remove the leading `#` character.
   --
   -- For example:
@@ -20,8 +21,14 @@
   --
   -- Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html.
   -->
-  
+
 [gimmick:theme](slate)
 
-[Pager 1](pages/page1.md)
-[Pager 2](pages/page2.md)
+<!--
+  -- Navigation
+  --
+  -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
+-->
+
+[Pages 1](pages/page1.md)
+[Pages 2](pages/page2.md)
