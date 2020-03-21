@@ -18,7 +18,7 @@
 [//]: # ( )
 [//]: # ( Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html. )
 
-[//]: # ( [gimmick:theme](slate) )
+[gimmick:theme](slate)
 
 [//]: # ( Navigation )
 [//]: # ( )
