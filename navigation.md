@@ -1,4 +1,4 @@
-[//]: # (test)
+[//]: # ( test )
 
 # Greg's Desk
 
@@ -20,5 +20,5 @@
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
   -->
 
-[Pageh 1](pages/page1.md)
-[Pageh 2](pages/page2.md)
+[Pagei 1](pages/page1.md)
+[Pagei 2](pages/page2.md)
