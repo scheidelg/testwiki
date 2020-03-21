@@ -1,34 +1,31 @@
-<!--
-    Name of your wiki
-  
+<!-- Name of your wiki
+  --
   -- Do NOT remove the leading `#` character.
   --
   -- For example:
   --
-  --    # Greg's Desk
+  --     # Greg's Desk
   -->
 
 # Greg's Desk
 
-<!--
-  -- Default theme
-  
-   See: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser
-  
-   For example:
-  
-       [gimmick:theme](slate)
-  
-   Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html.
--->
+<!-- Default theme
+  --
+  -- See: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser
+  --
+  -- For example:
+  --
+  --    [gimmick:theme](slate)
+  --
+  -- Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html.
+  -->
 
 [gimmick:theme](slate)
 
-<!--
-  -- Navigation
+<!-- Navigation
   --
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
 -->
 
-[Pagec 1](pages/page1.md)
-[Pagec 2](pages/page2.md)
+[Pagee 1](pages/page1.md)
+[Pagee 2](pages/page2.md)
