@@ -30,5 +30,5 @@
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
 -->
 
-[Pagex 1](pages/page1.md)
-[Pagex 2](pages/page2.md)
+[Pagea 1](pages/page1.md)
+[Pagea 2](pages/page2.md)
