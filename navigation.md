@@ -24,5 +24,5 @@
 [//]: # ( )
 [//]: # ( See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation )
 
-[Pagej 1](pages/page1.md)
-[Pagej 2](pages/page2.md)
+[Page 1](pages/page1.md)
+[Page 2](pages/page2.md)
