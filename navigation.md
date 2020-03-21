@@ -1,3 +1,8 @@
+<!--
+  -- Name of your wiki
+  -- Do NOT remove the leading `#` character.
+  -->
+
 # Greg's Desk
 
 [gimmick:theme](slate)
