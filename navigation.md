@@ -1,3 +1,4 @@
+[//]: # (test)
 <!-- Name of your wiki
   --
   -- Do NOT remove the leading `#` character.
@@ -27,5 +28,5 @@
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
 -->
 
-[Pagee 1](pages/page1.md)
-[Pagee 2](pages/page2.md)
+[Pagef 1](pages/page1.md)
+[Pagef 2](pages/page2.md)
