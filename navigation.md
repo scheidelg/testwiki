@@ -20,7 +20,7 @@
        [gimmick:theme](slate)
   
    Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html.
-  -->
+-->
 
 [gimmick:theme](slate)
 
@@ -30,5 +30,5 @@
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
 -->
 
-[Pagea 1](pages/page1.md)
-[Pagea 2](pages/page2.md)
+[Pageb 1](pages/page1.md)
+[Pageb 2](pages/page2.md)
