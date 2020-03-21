@@ -27,6 +27,6 @@
 
     See: ttp://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
 -->
-
+[Home](index.md)
 [Page 1](pages/page1.md)
 [Page 2](pages/page2.md)
