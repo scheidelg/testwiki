@@ -12,7 +12,7 @@
 
 <!--
   -- Default theme
-  --
+  
   -- See: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser
   --
   -- For example:
@@ -30,5 +30,5 @@
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
 -->
 
-[Pages 1](pages/page1.md)
-[Pages 2](pages/page2.md)
+[Pagex 1](pages/page1.md)
+[Pagex 2](pages/page2.md)
