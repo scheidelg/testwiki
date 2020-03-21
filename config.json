@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "<p align=\"right\" Content and images © Greg Scheidel</p><br />",
+    "additionalFooterText": "Content and images © Greg Scheidel -- ",
     "anchorCharacter": "&para;",
     "title": "Greg's Desk"
 }
