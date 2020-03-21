@@ -1,11 +1,12 @@
-[//]: # ( Name your wiki )
-  --
-  -- Do NOT remove the leading `#` character.
-  --
-  -- For example:
-  --
-  --     # Greg's Desk
-  -->
+[//]: # (
+
+    Name your wiki
+    Do NOT remove the leading `#` character.
+
+    For example:
+    
+        # Greg's Desk
+)
 
 # Greg's Desk
 
@@ -25,7 +26,7 @@
 <!-- Navigation
   --
   -- See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
--->
+  -->
 
 [Pageg 1](pages/page1.md)
 [Pageg 2](pages/page2.md)
