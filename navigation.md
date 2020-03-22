@@ -1,5 +1,7 @@
 # Greg's Desk
 
+[gimmick:theme](slate)
+
 [Menu Item 1]()
 
   * # SubMenu Heading 1
