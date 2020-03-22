@@ -1,4 +1,4 @@
-# Blzg
+# Blog
 
 MDwiki and Blogging
 -----
