@@ -27,6 +27,24 @@ Markdown doesn't appear to have a built-in feature to right, center, or fully ju
 <p style="text-align:justify">text</p>
 ```
 
+### Activating Links in New Windows
+
+When a web page is formatted using markdown, markdown creates an `<a>` anchor tag for any URLs.  This happens when explicitly using the markdown syntax to identify a URL and when markdown identifies what it believes is a URL (e.g., `www.example.com`).  The created anchor tags don't include a `target="_blank"` attribute/value pair, which means that when the user clicks on the link the URL is rendered in the current web browser window or tab.
+
+In order to have the URL content automatically rendered in a new window or tab, we have to create our own anchor tag; and we have to prevent markdown from interpreting the URL and automatically creating an anchor tag.
+
+Creating our own anchor tag is straightforward.  For example, if we wanted to hyperlink the word 'here' to `www.example.com`:
+
+```HTML
+Click <a href="http://www.example.com" target="_blank">here</a> to activiate the web page.
+```
+
+There's an extra step, however, if we want to use the actual URL as the displayed text; we need to to prevent markdown from interpreting the displayed text as a URL.  An easy way to do this is to add the HTML `<span></span>` after the URI specifier and after every period in the FQDN.  For example:
+
+```HTML
+Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<span></span>example.<span></span>com</a> to activiate the web page.
+```
+
 -----
 ## Other References
 
@@ -53,4 +71,4 @@ Other markdown references:
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
 <hr class="tight">
-<p class="timestamp">2020.03.22 6:38 pm ET</p>
+<p class="timestamp">2020.03.22 7:10 pm ET</p>
