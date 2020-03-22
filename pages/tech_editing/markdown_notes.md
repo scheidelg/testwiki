@@ -7,21 +7,25 @@ This is a collection of notes, tips, and rules for me when using markdown (prima
 
 A quick reference for things I've used (or started to use) frequently.
 
-| Description              | Markdown     | Example    |
-| ------------------------ | ------------ | ---------- |
-| Italics emphasis         | `*text*`     | *text*     |
-| Bold emphasis            | `**text**`   | **text**   |
-| Italics and bold emphasis| `**_text_**` | **_text_** |
+| Description                             | Markdown     | Example    |
+| --------------------------------------- | ------------ | ---------- |
+| Italics emphasis                        | `*text*`     | *text*     |
+| Bold emphasis                           | `**text**`   | **text**   |
+| Italics and bold emphasis               | `**_text_**` | **_text_** |
+| Code inline with text; single backticks | `` `text` `` | `text`     |
 
- * italics: single asterisks around text: `*text*`
- 
- * bold: double asterisks around text: `**text**`
- 
- * code inline with text: single backticks around text: `` `text` ``
- 
- * code blocks: indent lines (optional for blank lines in the middle of the code block) with four spaces; or open and close the code block with three backticks: ```` ```text``` ````
- 
- * right-align text: `<p align="right">text</p>`
+### Right, Center, or FUll Justification 
+
+Markdown doesn't appear to have a built-in feature to right, center, or fully justify content.  That's OK, just use the appropriate HTML tag with the 'align' attribute or the CSS style syntax.
+
+```HTML
+<p align="right">text</p>
+<p align="center">text</p>
+<p align="justify">text</p>
+<p style="text-align:right">text</p>
+<p style="text-align:center">text</p>
+<p style="text-align:justify">text</p>
+```
 
 -----
 ## Other References
