@@ -2,6 +2,6 @@
 
 This is the blog page.
 
-[gimmick:iframe](http://www.example.com)
+[gimmick:iframe](http://dynalon.tumblr.com/tagged/MDwiki)
 
-Test.
+Test again.
