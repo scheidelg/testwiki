@@ -6,16 +6,16 @@
 
 [Scripting &amp; Programming]()
 
-  * [Intro](pages/scripting/intro.md)
+  * [Intro](pages/scripting_and_programming/intro.md)
   - - - -
-  * [Outlook](pages/scripting/outlook.md)
+  * [Outlook](pages/scripting_and_programming/outlook.md)
   - - - -
-  * [CMD](pages/scripting/cmd.md)
-  * [PowerShell](pages/scripting/powershell.md)
-  * [bash](pages/scripting/bash.md)
-  * [Python](pages/scripting/pythong.md)
+  * [CMD](pages/scripting_and_programming/cmd.md)
+  * [PowerShell](pages/scripting_and_programming/powershell.md)
+  * [bash](pages/scripting_and_programming/bash.md)
+  * [Python](pages/scripting_and_programming/pythong.md)
   - - - -
-  * [Misc](pages/scripting/misc.md)
+  * [Misc](pages/scripting_and_programming/misc.md)
 
 [Tech Editing]()
 
