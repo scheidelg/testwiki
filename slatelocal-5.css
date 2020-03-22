@@ -7766,3 +7766,12 @@ h6,
 .h6 {
     font-size: 12px
 }
+
+/*
+ * Update H1, H2, H3 heading styles to increase top margins.
+ */
+h1,
+h2,
+h3 {
+    margin-top: 25px;
+}
