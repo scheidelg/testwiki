@@ -7693,8 +7693,8 @@ legend {
    -------------------------------------------------------------------------- */
 
 /*
- * Increase the margin below a paragraph.
- * colors.
+ * Increase the margin below a paragraph and the line spacing within a
+ * paragraph.
  */
 p {
     margin-bottom: 15px;
