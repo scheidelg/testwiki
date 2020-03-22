@@ -22,11 +22,14 @@ A quick reference for things I've used (or started to use) frequently:
 
 (my rules here)
 
-external hrefs using <span></span>, open in blank window or tab
+external hrefs using `<span></span>` and opening in blank window or tab
 
 horizontal line break between H2 sections
 
 bulleted lists with spaces between them
+
+timestamp footers.
+
 
 -----
 ## Other References
