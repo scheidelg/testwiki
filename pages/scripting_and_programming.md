@@ -1,5 +1,3 @@
-## Scripting
-
------
+# Scripting
 
 This is the scripting page.
