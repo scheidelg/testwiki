@@ -7684,16 +7684,21 @@ legend {
 .affix {
     position: fixed
 }
-
-/* ======================================================================== */
-
-/*
+/* ==========================================================================
  * CSS file for the 'slate' them originally downloaded from:
  *
  *    netdna.bootstrapcdn.com/bootswatch/3.0.0/slate/bootstrap.min.css
  *
  * Customized by Greg Scheidel
+   -------------------------------------------------------------------------- */
+
+/*
+ * Increase the margin below a paragraph.
+ * colors.
  */
+p {
+    margin-bottom: 0 0 15px;
+}
 
 /*
  * Change the body text color from grey to white; avoid dark colors on dark
