@@ -1,4 +1,4 @@
-# Markdown Notes (6)
+# Markdown Notes (8)
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
@@ -22,15 +22,33 @@ A quick reference for things I've used (or started to use) frequently:
 
 (my rules here)
 
+external hrefs using <span></span>, open in blank window or tab
+
+horizontal line break between H2 sections
+
+bulleted lists with spaces between them
+
 -----
-## Comprehensive References
+## Other References
 
-More comprehensive markdown references:
+Other markdown references:
 
- * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball</a> [<a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a>] by John Gruber
+ * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball</a> by John Gruber
  
    The original markdown specification.
    
- * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> [<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>] by Adam Pritchard
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a>
+   
+ * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> by Adam Pritchard
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
+   
+   <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>
+
+ * <a href="http://dynalon.github.io/mdwiki" target="_blank">MDwiki Wiki</a> by Timo Dörr
+
+   The MDwiki Wiki documenting how to set up and use MDwiki.  The **Docs** section has multiple pages with useful tips and examples
+   
+   <a href="http://dynalon.github.io/mdwiki/#!quickstart.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!quickstart.md</a>
+      
+   <a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a>
