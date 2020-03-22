@@ -2,6 +2,7 @@
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
+-----
 ## Quick Reference
 
 A quick reference for things I've used (or started to use) frequently:
@@ -16,10 +17,12 @@ A quick reference for things I've used (or started to use) frequently:
  
  * right-align text: `<p align="right">text</p>`
 
+-----
 ## My Rules
 
 (my rules here)
 
+-----
 ## Comprehensive References
 
 More comprehensive markdown references:
