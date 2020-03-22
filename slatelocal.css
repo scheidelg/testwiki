@@ -303,7 +303,7 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.428571429;
-    color: #ffffff;
+    color: #c8c8c8;
     background-color: #272b30
 }
 
@@ -7685,11 +7685,35 @@ legend {
     position: fixed
 }
 
+/*
+ * CSS file for the 'slate' them originally downloaded from:
+ *
+ *    netdna.bootstrapcdn.com/bootswatch/3.0.0/slate/bootstrap.min.css
+ *
+ * Customized by Greg Scheidel
+ */
+
+/*
+ * Change the body text color from grey to white; avoid dark colors on dark
+ * colors.
+ */
+body {
+    color: #ffffff;
+}
+
+/*
+ * Create a horizontal ruler style that doesn't have top or bottom margins,
+ * for a cleaner look - particularly when used at the bottom of a page.
+ */
 hr.tight {
    margin-top: 0;
    margin-bottom: 0;
 }
 
+/*
+ * Create a paragraph style that can be used for timestamp 'footers' at the
+ * bottom of each page.
+ */
 p.timestamp {
     font-size: 50%;
     font-style: italic;
