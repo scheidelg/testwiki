@@ -7734,6 +7734,9 @@ p.timestamp {
     font-style: italic;
 }
 
+/*
+ * Update heading styles to make the fonts smaller.
+ */
 h1,
 .h1 {
     font-size: 30px
@@ -7763,4 +7766,3 @@ h6,
 .h6 {
     font-size: 12px
 }
-
