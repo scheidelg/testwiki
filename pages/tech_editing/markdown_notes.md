@@ -1,4 +1,4 @@
-# Markdown Notes (0)
+# Markdown Notes
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
@@ -52,6 +52,4 @@ Other markdown references:
    <i><a href="http://dynalon.github.io/mdwiki/#!quickstart.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!quickstart.md</a></i>
       
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
-   
------
 <i><sub><sup>2020.03.22 2:03 pm ET<sub><sup></i>
