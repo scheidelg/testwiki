@@ -2,20 +2,29 @@
 
 [gimmick:theme](slate)
 
-[Blogx](pages/blog.md)
+[Blog](pages/blog.md)
 
-[Scripting]()
+[Scripting &amp; Programming]()
 
-  * [Intro](pages/scripting.md)
+  * [Intro](pages/scripting_and_programming.md)
   - - - -
   * [CMD](subitem1.md)
   * [PowerShell](subitem2.md)
-  = = = =
   * [bash](subitem1.md)
   * [Python](subitem1.md)
+  * [Outlook](subitem1.md)
   * [Misc](subitem1.md)
 
-[Tech Editing](pages/tech_editing.md)
+[Tech Editing]()
+
+  * [Intro](pages/tech_editing.md)
+  - - - -
+  * [Rules](subitem1.md)
+  - - - -
+  * [Excel](subitem1.md)
+  * [Google Sheets](subitem2.md)
+  * [Google Docs](subitem1.md)
+  * [PowerPoint](subitem1.md)
 
 [Labs &amp; Challenges](pages/labs_and_challenges.md)
 
