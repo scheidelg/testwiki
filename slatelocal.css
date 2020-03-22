@@ -7693,4 +7693,5 @@ hr.tight {
 p.timestamp {
     font-size: 50%;
     font-style: italic;
+    border-top-style: solid;
 }
