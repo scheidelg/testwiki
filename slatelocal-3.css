@@ -7726,3 +7726,7 @@ p.timestamp {
     font-size: 50%;
     font-style: italic;
 }
+
+.dropdown-menu>li>a {
+    color: #ffffff;
+}
