@@ -2,7 +2,11 @@
 
 [gimmick:theme](slate)
 
-[Blogy](pages/blog.md)
+[Blog](pages/blog.md)
+
+[Scripting]()
+  * [CMD](subitem1.md)
+  * [PowerShell](subitem2.md)
 
 [Menu Item 1]()
 
