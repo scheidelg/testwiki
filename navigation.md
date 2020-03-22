@@ -24,5 +24,11 @@
 [//]: # ( )
 [//]: # ( See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation )
 
-[Page 1](pages/page1.md)
-[Page 2](pages/page2.md)
+[Blog](pages/blog.md)
+[Scripting](pages/scripting.md)
+[Tech Editing](pages/tech_editing.md)
+[Labs &amp; Challenges](pages/labs_and_challenges.md)
+[Reference Binders](pages/reference_binders.md)
+[Webcasts &amp; Talks](pages/webcasts_and_talks.md)
+[Random](pages/random.md)
+[About Me](pages/about_me.md)
