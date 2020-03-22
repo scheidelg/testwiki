@@ -1,9 +1,10 @@
-# Blxg
+# Blog
 
 MDwiki and Blogging
 -----
 
 Initially I was hoping to integrate a basic blog-like capability into this website, using MDwiki's 'iframe' gimmick.  The http://dynalon.github.io/mdwiki/#!blog.md webpage demonstrates this with a blog.md file that consists solely of:
+
 ```
 MDwiki Blog
 ====
