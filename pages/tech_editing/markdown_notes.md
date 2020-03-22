@@ -14,7 +14,7 @@ A quick reference for things I've used (or started to use) frequently.
 | Italics and bold emphasis               | `**_text_**` | **_text_** |
 | Code inline with text; single backticks | `` `text` `` | `text`     |
 
-### Right, Center, or FUll Justification 
+### Right, Center, or Full Justification 
 
 Markdown doesn't appear to have a built-in feature to right, center, or fully justify content.  That's OK, just use the appropriate HTML tag with the 'align' attribute or the CSS style syntax.
 
