@@ -1,4 +1,6 @@
-## Blog (1)
+## Blog (2)
+
+---
 
 ### MDwiki and Blogging
 
