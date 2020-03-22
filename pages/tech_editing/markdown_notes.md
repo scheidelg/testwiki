@@ -1,4 +1,4 @@
-# Markdown Notes 0
+# Markdown Notes 1
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
@@ -13,4 +13,7 @@ A quick reference for things I've used (or started to use) frequently:
 More comprehensive markdown references:
 
  * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball</a> [<a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a>] by John Gruber
+ 
+   The original markdown specification.
+   
  * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> [<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>] by Adam Pritchard
