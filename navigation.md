@@ -50,7 +50,12 @@
   * [Google Docs](pages/tech_editing/google_docs.md)
   * [PowerPoint](pages/tech_editing/power_point.md)
 
-[Labs &amp; Challenges](pages/labs_and_challenges.md)
+[Labs &amp; Challenges]()
+
+  * [Intro](pages/labs_and_challenges/intro.md)
+  - - - -
+  * [Local](pages/labs_and_challenges/local.md)
+  * [Cyber Defense NetWars v1](pages/labs_and_challenges/cdnwv1.md)
 
 [Reference Binders](pages/reference_binders.md)
 
