@@ -1,8 +1,28 @@
-# Greg's Desk
+[//]: # ( Name your wiki )
+[//]: # ( )
+[//]: # (     Do NOT remove the leading `#` character. )
+[//]: # ( )
+[//]: # ( For example: )
+[//]: # ( )    
+[//]: # (     # Greg's Desk )# Greg's Desk
+
+[//]: # ( Default theme )
+[//]: # ( )
+[//]: # ( See: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser )
+[//]: # ( )
+[//]: # ( For example: )
+[//]: # ( )
+[//]: # (     [gimmick:theme](slate) )
+[//]: # ( )
+[//]: # ( Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html. )
 
 [gimmick:theme](slate)
 
-[Blog](pages/blog.md)
+[//]: # ( Navigation )
+[//]: # ( )
+[//]: # ( See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
+
+[Blxg](pages/blog.md)
 
 [Scripting &amp; Programming]()
 
