@@ -1,5 +1,7 @@
 ## Markdown Notes (3)
 
+-----
+
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
 A quick reference for things I've used (or started to use) frequently:
