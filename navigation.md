@@ -2,6 +2,13 @@
 
 [gimmick:theme](slate)
 
+[Blog](pages/blog.md)
+
+[Scripting]()
+
+  * [SubMenu Item 1](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
+
 [Menu Item 1]()
 
   * # SubMenu Heading 1
