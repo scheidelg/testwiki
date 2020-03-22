@@ -4,6 +4,6 @@ This is a collection of notes, tips, and rules for me when using markdown (prima
 
  * italics: single asterisks around text: ```*text*```
  * bold: double asterisks around text: ```**text**```
- * code inline with text: three backticks before, three backticks after:
+ * code inline with text: three backticks before, three backticks after: ``` ```text``` ```
  * right-align text: ```<p align="right">text</p>```
  
