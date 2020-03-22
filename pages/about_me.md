@@ -1,12 +1,4 @@
-# About Me
-
-## About You
-
-### About Him
-
-#### About Them
-
-##### About The Others
+## About Me
 
 -----
 
