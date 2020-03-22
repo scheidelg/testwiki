@@ -24,7 +24,7 @@
 [//]: # ( )
 [//]: # ( See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation )
 
-[Blog](pages/blog.md)
+[Blogg](pages/blog.md)
 [Scripting]()
  * [CMD](pages\scripting\cmd.md)
  * [PowerShell](pages\scripting\powershell.md)
