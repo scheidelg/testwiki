@@ -1,4 +1,4 @@
-# Markdown Notes 1
+# Markdown Notes (3)
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
@@ -17,3 +17,5 @@ More comprehensive markdown references:
    The original markdown specification.
    
  * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> [<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>] by Adam Pritchard
+
+   A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
