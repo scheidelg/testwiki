@@ -2,4 +2,4 @@
 
 # Random
 
-This is the random page.
+I don't like the default point sizes for H1, H2, H3; they're too big.  Come back to this later and adjust the style sheet so that H1 is formatted as the out-of-the-box H2, H2 is formatted as the OOTB H3, etc.
