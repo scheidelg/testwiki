@@ -2,16 +2,16 @@
 
 [gimmick:theme](slate)
 
-[Blogg](pages/blog.md)
+[Bloggg](pages/blog.md)
 
-[Scripting](page/scripting.md)
-
+[Scripting]()
+  * [Intro](page/scripting.md)
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
 
 [Menu Item 1]()
 
-  * # SubMenu Heading 1
+  * # SubMenu Heading 1(pages/scripting.md)
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
