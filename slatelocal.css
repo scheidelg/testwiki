@@ -7702,6 +7702,14 @@ body {
 }
 
 /*
+ * Change the color used for unactivated hyperlinks so that it isn't the exact
+ * same as regular text.
+ */
+a {
+    color: #0ff;
+}
+
+/*
  * Create a horizontal ruler style that doesn't have top or bottom margins,
  * for a cleaner look - particularly when used at the bottom of a page.
  */
