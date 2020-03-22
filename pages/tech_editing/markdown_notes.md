@@ -1,6 +1,4 @@
-## Markdown Notes (4)
-
------
+# Markdown Notes (4)
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
