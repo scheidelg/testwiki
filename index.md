@@ -1,4 +1,4 @@
-# Home Page (2)
+# Home Page
 
 This is the home page.
 
