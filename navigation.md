@@ -2,7 +2,7 @@
 
 [gimmick:theme](slate)
 
-[Bloggg](pages/blog.md)
+[Blogx](pages/blog.md)
 
 [Scripting]()
   * [Intro](page/scripting.md)
@@ -11,7 +11,7 @@
 
 [Menu Item 1]()
 
-  * # SubMenu Heading 1(pages/scripting.md)
+  * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
