@@ -1,4 +1,7 @@
 # About Me
 
 This is the about me page.
-<hr><i><sub><sup>2020.03.22 2:03 pm ET<sub><sup></i>
+
+<hr class="tight">
+<p class="timestamp">2020.03.22 4:32 pm ET</p>
+
