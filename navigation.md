@@ -2,14 +2,15 @@
 
 [gimmick:theme](slate)
 
-[Blog](pages/blog.md)
+[Blogx](pages/blog.md)
 
 [Scripting]()
 
-  * [Intro](subitem1.md)
+  * [Intro](pages/scripting.md)
   - - - -
   * [CMD](subitem1.md)
   * [PowerShell](subitem2.md)
+  = = = =
   * [bash](subitem1.md)
   * [Python](subitem1.md)
   * [Misc](subitem1.md)
