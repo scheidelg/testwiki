@@ -14,8 +14,5 @@
  
   * Create new style for the timestamp footers on each page (smaller font size, italics, top border); test it out; add to ./index.md and all ./pages/x.md files
   
------
-<i><sub><sup>2020.03.22 2:03 pm ET<sub><sup></i>
-
 <hr class="tight">
 <p class="timestamp">2020.03.22 4:32 pm ET</p>
