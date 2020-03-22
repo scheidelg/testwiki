@@ -7696,8 +7696,9 @@ legend {
  * Increase the margin below a paragraph.
  * colors.
  */
-body {
-    margin-bottom: 0 0 500px;
+p {
+    margin-bottom: 15px;
+    line-height: 1.75;
 }
 
 /*
