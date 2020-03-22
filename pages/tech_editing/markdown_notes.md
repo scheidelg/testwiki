@@ -1,4 +1,4 @@
-# Markdown Notes (8)
+# Markdown Notes (9)
 
 This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
 
@@ -33,7 +33,7 @@ bulleted lists with spaces between them
 
 Other markdown references:
 
- * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball</a> by John Gruber
+ * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball / Markdown</a> by John Gruber
  
    The original markdown specification.
    
@@ -43,7 +43,7 @@ Other markdown references:
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
    
-   <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>
+   <i><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></i>
 
  * <a href="http://dynalon.github.io/mdwiki" target="_blank">MDwiki Wiki</a> by Timo Dörr
 
