@@ -26,6 +26,11 @@
 
 [Blog](pages/blog.md)
 [Scripting](pages/scripting.md)
+- [CMD]()
+- [PowerShell]()
+- [bash]()
+- [Python]()
+- [Misc]()
 [Tech Editing](pages/tech_editing.md)
 [Labs &amp; Challenges](pages/labs_and_challenges.md)
 [Reference Binders](pages/reference_binders.md)
