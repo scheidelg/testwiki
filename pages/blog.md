@@ -1,4 +1,4 @@
-# Blag
+# Blog
 
 MDwiki and Blogging
 -----
