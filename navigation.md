@@ -2,7 +2,7 @@
 
 [gimmick:theme](slate)
 
-[Blog](pages/blog.md)
+[Blogg](pages/blog.md)
 
 [Scripting](page/scripting.md)
 
