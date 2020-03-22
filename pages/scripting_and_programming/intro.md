@@ -1,3 +1,5 @@
 ## Scripting and Programming
 
+-----
+
 This is the scripting and programming intro page.
