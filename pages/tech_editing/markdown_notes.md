@@ -5,7 +5,7 @@ This is a collection of notes, tips, and rules for me when using markdown (prima
 -----
 ## Quick Reference
 
-A quick reference for things I've used (or started to use) frequently:
+A quick reference for things I've used (or started to use) frequently.
 
  * italics: single asterisks around text: `*text*`
  
@@ -16,20 +16,6 @@ A quick reference for things I've used (or started to use) frequently:
  * code blocks: indent lines (optional for blank lines in the middle of the code block) with four spaces; or open and close the code block with three backticks: ```` ```text``` ````
  
  * right-align text: `<p align="right">text</p>`
-
------
-## My Rules
-
-(my rules here)
-
-external hrefs using `<span></span>` and opening in blank window or tab
-
-horizontal line break between H2 sections
-
-bulleted lists with spaces between them
-
-timestamp footers.
-
 
 -----
 ## Other References
@@ -57,4 +43,4 @@ Other markdown references:
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
 <hr class="tight">
-<p class="timestamp">2020.03.22 5:30 pm ET</p>
+<p class="timestamp">2020.03.22 6:38 pm ET</p>
