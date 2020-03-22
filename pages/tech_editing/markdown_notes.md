@@ -36,13 +36,13 @@ In order to have the URL content automatically rendered in a new window or tab, 
 Creating our own anchor tag is straightforward.  For example, if we wanted to hyperlink the word 'here' to `www.example.com`:
 
 ```HTML
-Click <a href="http://www.example.com" target="_blank">here</a> to activiate the web page.
+Click <a href="http://www.example.com" target="_blank">here</a> to activate the web page.
 ```
 
 There's an extra step, however, if we want to use the actual URL as the displayed text; we need to to prevent markdown from interpreting the displayed text as a URL.  An easy way to do this is to add the HTML `<span></span>` after the URI specifier and after every period in the FQDN.  For example:
 
 ```HTML
-Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<span></span>example.<span></span>com</a> to activiate the web page.
+Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<span></span>example.<span></span>com</a> to activate the web page.
 ```
 
 -----
