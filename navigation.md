@@ -8,6 +8,9 @@
 
   * [CMD](subitem1.md)
   * [PowerShell](subitem2.md)
+  * [bash](subitem1.md)
+  * [Python](subitem1.md)
+  * [Misc](subitem1.md)
 
 [Menu Item 1]()
 
