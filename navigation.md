@@ -12,6 +12,18 @@
   * [Python](subitem1.md)
   * [Misc](subitem1.md)
 
+[Tech Editing](pages/tech_editing.md)
+
+[Labs &amp; Challenges](pages/labs_and_challenges.md)
+
+[Reference Binders](pages/reference_binders.md)
+
+[Webcasts &amp; Talks](pages/webcasts_and_talks.md)
+
+[Random](pages/random.md)
+
+[About Me](pages/about_me.md)
+
 [Menu Item 1]()
 
   * # SubMenu Heading 1
