@@ -12,4 +12,5 @@ A quick reference for things I've used (or started to use) frequently:
  
 More comprehensive markdown references:
 
- * Daring Fireball [<a href="https://www.thesitewizard.com/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a>]
+ * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball</a> [<a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a>] by John Gruber
+ * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> [<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>] by Adam Pritchard
