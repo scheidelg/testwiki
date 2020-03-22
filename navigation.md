@@ -6,7 +6,7 @@
 
 [Scripting]()
 
-  * Intro(subitem1.md)
+  * [Intro](subitem1.md)
   - - - -
   * [CMD](subitem1.md)
   * [PowerShell](subitem2.md)
