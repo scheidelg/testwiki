@@ -1,9 +1,9 @@
-# Blcg
+# Blog x
 
 MDwiki and Blogging
 -----
 
-Initially I was hoping to integrate a basic blog-like capability into this website, using MDwiki's 'iframe' gimmick.  The <a href="http://dynalon.github.io/mdwiki/#!blog.md" target="_blank">http://<span></span>dynalon<span></span>.github<span></span>.io/mdwiki/#!blog.md</a> webpage demonstrates this with a blog.md file that consists solely of:
+Initially I was hoping to integrate a basic blog-like capability into this website, using MDwiki's 'iframe' gimmick.  The <a href="http://dynalon.github.io/mdwiki/#!blog.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!blog.md</a> webpage demonstrates this with a blog.md file that consists solely of:
 
     MDwiki Blog
     ====
