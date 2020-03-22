@@ -1,39 +1,17 @@
-[//]: # ( Name your wiki )
-[//]: # ( )
-[//]: # (     Do NOT remove the leading `#` character. )
-[//]: # ( )
-[//]: # ( For example: )
-[//]: # ( )    
-[//]: # (     # Greg's Desk )
-
 # Greg's Desk
 
-[//]: # ( Default theme )
-[//]: # ( )
-[//]: # ( See: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser )
-[//]: # ( )
-[//]: # ( For example: )
-[//]: # ( )
-[//]: # (     [gimmick:theme](slate) )
-[//]: # ( )
-[//]: # ( Note that non-default themes will require Web access; or else you'll have to instead load the CSS file yourself as part of the index.html. )
+[Menu Item 1]()
 
-[gimmick:theme](slate)
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
+  - - - -
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](subitem3.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](subitem3.md)
 
-[//]: # ( Navigation )
-[//]: # ( )
-[//]: # ( See: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation )
-
-[Blogg](pages/blog.md)
-[Scripting]()
- * [CMD](pages\scripting\cmd.md)
- * [PowerShell](pages\scripting\powershell.md)
- * [bash](pages\scripting\bash.md)
- * [Python](pages\scripting\python.md)
- * [Misc](pages\scripting\misc.md)
-[Tech Editing](pages/tech_editing.md)
-[Labs &amp; Challenges](pages/labs_and_challenges.md)
-[Reference Binders](pages/reference_binders.md)
-[Webcasts &amp; Talks](pages/webcasts_and_talks.md)
-[Random](pages/random.md)
-[About Me](pages/about_me.md)
+[Menu Item 2](item2.md)
+- - - -
+[Menu Item 3](item3.md)
