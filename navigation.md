@@ -13,7 +13,7 @@
   * [CMD](pages/scripting_and_programming/cmd.md)
   * [PowerShell](pages/scripting_and_programming/powershell.md)
   * [bash](pages/scripting_and_programming/bash.md)
-  * [Python](pages/scripting_and_programming/pythong.md)
+  * [Python](pages/scripting_and_programming/python.md)
   - - - -
   * [Misc](pages/scripting_and_programming/misc.md)
 
