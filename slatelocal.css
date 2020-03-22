@@ -389,18 +389,8 @@ hr {
     border: 0
 }
 
-.tight {
-   margin-top: 0;
-   margin-bottom: 0;
-}
-
 p {
     margin: 0 0 10px
-}
-
-.timestamp {
-    font-size: 50%;
-    font-style: italic;
 }
 
 .lead {
@@ -7693,4 +7683,14 @@ legend {
 
 .affix {
     position: fixed
+}
+
+hr.tight {
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+p.timestamp {
+    font-size: 50%;
+    font-style: italic;
 }
