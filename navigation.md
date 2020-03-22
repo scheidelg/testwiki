@@ -6,25 +6,27 @@
 
 [Scripting &amp; Programming]()
 
-  * [Intro](pages/scripting_and_programming.md)
+  * [Intro](pages/scripting/intro.md)
   - - - -
-  * [CMD](subitem1.md)
-  * [PowerShell](subitem2.md)
-  * [bash](subitem1.md)
-  * [Python](subitem1.md)
-  * [Outlook](subitem1.md)
-  * [Misc](subitem1.md)
+  * [Outlook](pages/scripting/outlook.md)
+  - - - -
+  * [CMD](pages/scripting/cmd.md)
+  * [PowerShell](pages/scripting/powershell.md)
+  * [bash](pages/scripting/bash.md)
+  * [Python](pages/scripting/pythong.md)
+  - - - -
+  * [Misc](pages/scripting/misc.md)
 
 [Tech Editing]()
 
-  * [Intro](pages/tech_editing.md)
+  * [Intro](pages/tech_editing/intro.md)
   - - - -
-  * [Rules](subitem1.md)
+  * [Rules](pages/tech_editing/rules.md)
   - - - -
-  * [Excel](subitem1.md)
-  * [Google Sheets](subitem2.md)
-  * [Google Docs](subitem1.md)
-  * [PowerPoint](subitem1.md)
+  * [Excel](pages/tech_editing/excel.md)
+  * [Google Sheets](pages/tech_editing/google_sheets.md)
+  * [Google Docs](pages/tech_editing/google_docs.md)
+  * [PowerPoint](pages/tech_editing/power_point.md)
 
 [Labs &amp; Challenges](pages/labs_and_challenges.md)
 
@@ -35,19 +37,3 @@
 [Random](pages/random.md)
 
 [About Me](pages/about_me.md)
-
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](subitem3.md)
-
-[Menu Item 2](item2.md)
-- - - -
-[Menu Item 3](item3.md)
