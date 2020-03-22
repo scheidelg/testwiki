@@ -7702,6 +7702,13 @@ body {
 }
 
 /*
+ * Change the color used for dropdown menu options on the main MDwiki menu.
+ */
+.dropdown-menu>li>a {
+    color: #ffffff;
+}
+
+/*
  * Change the color used for unactivated hyperlinks so that it isn't the exact
  * same as regular text.
  */
@@ -7725,8 +7732,4 @@ hr.tight {
 p.timestamp {
     font-size: 50%;
     font-style: italic;
-}
-
-.dropdown-menu>li>a {
-    color: #ffffff;
 }
