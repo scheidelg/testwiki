@@ -3,7 +3,7 @@
 MDwiki and Blogging
 -----
 
-Initially I was hoping to integrate a basic blog-like capability into this website, using MDwiki's 'iframe' gimmick.  The <div>http://dynalon.github.io/mdwiki/#!blog.md</div> webpage demonstrates this with a blog.md file that consists solely of:
+Initially I was hoping to integrate a basic blog-like capability into this website, using MDwiki's 'iframe' gimmick.  The <span>http://dynalon.github.io/mdwiki/#!blog.md</span> webpage demonstrates this with a blog.md file that consists solely of:
 
     MDwiki Blog
     ====
