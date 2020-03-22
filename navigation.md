@@ -4,7 +4,7 @@
 
 [Blog](pages/blog.md)
 
-[Scripting]()
+[Scripting](page/scripting.md)
 
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
