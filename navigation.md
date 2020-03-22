@@ -45,7 +45,9 @@
   * [Intro](pages/tech_editing/intro.md)
   - - - -
   * [Rules](pages/tech_editing/rules.md)
+  - - - -
   * [Markdown Notes](pages/tech_editing/markdown_notes.md)
+  * [Markdown Rules](pages/tech_editing/markdown_rules.md)
   - - - -
   * [Excel](pages/tech_editing/excel.md)
   * [Google Sheets](pages/tech_editing/google_sheets.md)
