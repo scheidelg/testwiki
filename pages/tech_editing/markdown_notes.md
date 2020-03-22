@@ -7,6 +7,12 @@ This is a collection of notes, tips, and rules for me when using markdown (prima
 
 A quick reference for things I've used (or started to use) frequently.
 
+| Description              | Markdown     | Example    |
+| ------------------------ | ------------ | ---------- |
+| Italics emphasis         | `*text*`     | *text*     |
+| Bold emphasis            | `**text**`   | **text**   |
+| Italics and bold emphasis| `**_text_**` | **_text_** |
+
  * italics: single asterisks around text: `*text*`
  
  * bold: double asterisks around text: `**text**`
