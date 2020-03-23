@@ -80,11 +80,11 @@ So for now I'm going with a footer that has:
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
 ```
 
-I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
+I'll log this as an 'issue' in my GitHub repository for this site and come back to this later. <a name="bob">text</a>
 
 References:
 
- 1. *Is it possible to retrieve the last modified date of a file using Javascript?* <a name="bob">text</a>
+ 1. *Is it possible to retrieve the last modified date of a file using Javascript?*
  
  [https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript]()
  
