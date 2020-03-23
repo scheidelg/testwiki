@@ -72,4 +72,4 @@ Other markdown references:
 
 <hr class="tight"><p class="timestamp">2020.03.23 10:08 am ET</p>
 <span id="datetime"></span/p>
-<script>document.getElementById("datetime").innerHTML = Date();</script>
+<script>document.getElementById("datetime").innerHTML = document.lastModified;</script>
