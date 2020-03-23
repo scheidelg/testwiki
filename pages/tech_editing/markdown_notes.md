@@ -50,7 +50,7 @@ Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<
 
 Other markdown references:
 
- * *Daring Fireball / Markdown* by John Gruber
+ * <i><a href="https://daringfireball.net/projects/markdown/">Daring Fireball / Markdown</a></i> by John Gruber
  
    The original markdown specification.
    
@@ -70,5 +70,5 @@ Other markdown references:
    
    [http://dynalon.github.io/mdwiki/#!layout.md]()
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:38 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:41 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
