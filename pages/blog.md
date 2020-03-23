@@ -55,7 +55,7 @@ However, it was annoying that I'd have to manually update that timestamp every t
 
 This JavaScript a simple hack that retrieves the timestamp from the Last-Modified HTTP response header, converts it to a Date object, and then sets an 'id' tag to the text representation of that Date object. The HTML code `<p id="timestamp"></p>` creates a paragraph that references the value set for the 'id' tag.
 
-<a name="abcd"></a>
+<a name="abcd">asdf</a>
 
 My intent was that this would automatically render the modification timestamp for that page without me having to manually edit the text at the bottom of the file.
 
