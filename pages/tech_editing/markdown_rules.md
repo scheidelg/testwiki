@@ -9,7 +9,7 @@ OK, maybe they're more like guidelines since there are always edge cases where i
 
 It bugs me when I'm a web page with "step-by-step" instructions includes a link to external content, and clicking on the link renders that external content in the same tab -- meaning that the instructions are now replaced with the new content.
 
-In those cases, make sure to format the link so the content opens in a a new tab and/or window.  See [Activating Links in New Windows]( pages/tech_editing/markdown_notes.md#Quick_Reference).
+In those cases, make sure to format the link so the content opens in a a new tab and/or window.  See [Activating Links in New Windows]( /pages/tech_editing/markdown_notes.md#Quick_Reference).
 
 <hr class="tight">
 ## Displaying URLs for External Links
