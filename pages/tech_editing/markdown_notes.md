@@ -54,21 +54,21 @@ Other markdown references:
  
    The original markdown specification.
    
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a>
+    [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
    
  * *Markdown Cheatsheet* by Adam Pritchard
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
    
-   <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a>
+   [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
  * *MDwiki Wiki* by Timo Dörr
  
    The MDwiki Wiki documenting how to set up and use MDwiki.  The **Docs** section has multiple pages with useful tips and examples
    
-   <a href="http://dynalon.github.io/mdwiki/#!quickstart.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!quickstart.md</a>
+   [http://dynalon.github.io/mdwiki/#!quickstart.md]()
    
-   <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
+   [http://dynalon.github.io/mdwiki/#!layout.md]
 
 <hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:09 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
