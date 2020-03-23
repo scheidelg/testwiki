@@ -45,7 +45,6 @@ There's an extra step, however, if we want to use the actual URL as the displaye
 Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<span></span>example.<span></span>com</a> to activate the web page.
 ```
 
-<hr class="tight">
 ## Other References
 
 Other markdown references:
