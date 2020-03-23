@@ -28,7 +28,7 @@ Markdown doesn't appear to have a built-in feature to right, center, or fully ju
 
 ### Activating Links in New Windows
 
-When a web page is formatted using markdown, markdown creates an `<a>` anchor tag for any URLs.  This happens when explicitly using the markdown syntax to identify a URL and when markdown identifies what it believes is a URL (e.g., `www.example.com`).  The created anchor tags don't include a `target="_blank"` attribute/value pair, which means that when the user clicks on the link the URL is rendered in the current web browser window or tab.
+When a web page is formatted using markdown, markdown creates an `<a>` anchor tag for any URLs.  This happens when explicitly using the markdown syntax to identify a URL and when markdown identifies what it believes is a URL (e.g., `www.example.com`).  The created anchor tags don't include a `target="_blank"` attribute/value pair, which means that the referenced content  is rendered in the current web browser window or tab when the user clicks on the link.
 
 If we want the URL content to automatically render in a new window or tab, we have to create our own anchor tag; and we have to prevent markdown from interpreting the URL and automatically creating an anchor tag.
 
@@ -69,4 +69,4 @@ Other markdown references:
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
 <hr class="tight">
-<p class="timestamp">2020.03.22 8:24 pm ET</p>
+<p class="timestamp">2020.03.22 8:29 pm ET</p>
