@@ -70,5 +70,5 @@ Other markdown references:
    
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
-<hr class="tight"><p class="timestamp" id="timestamp"></p>
-<script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:48 ET -- Site updated: <span id="timestamp"></span></p>
+<script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
