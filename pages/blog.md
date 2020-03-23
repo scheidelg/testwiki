@@ -1,6 +1,5 @@
 # Blog
 
-<hr class="tight">
 ## MDwiki and File Timestamps
 
 I thought it would be nice to include timestamps on each of the pages displayed on this MDwiki.  Initially I just put a static timestamp similar to what I put at the bottom of each one of these 'blog' entries, something like:
