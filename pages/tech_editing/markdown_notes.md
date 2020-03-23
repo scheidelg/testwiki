@@ -62,7 +62,7 @@ Other markdown references:
    
    <i><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></i>
 
- * <a href="http://dynalon.github.io/mdwiki" target="_blank">MDwiki Wiki</a> by Timo Dörr
+ * *MDwiki Wiki* by Timo Dörr
  
    The MDwiki Wiki documenting how to set up and use MDwiki.  The **Docs** section has multiple pages with useful tips and examples
    
