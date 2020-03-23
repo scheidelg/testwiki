@@ -84,7 +84,7 @@ I'll log this as an 'issue' in my GitHub repository for this site and come back 
 
 References:
 
- 1. *Is it possible to retrieve the last modified date of a file using Javascript?*
+ 1. *Is it possible to retrieve the last modified date of a file using Javascript?* <a name="bob">text</a>
  
  [https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript]()
  
@@ -110,5 +110,5 @@ Unfortunately this utterly failed when I tested this out by using exactly that s
 
 *#MDwiki #blog | 2020.03.22 01:03 ET*
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:59 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:53 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
