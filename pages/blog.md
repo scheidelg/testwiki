@@ -77,7 +77,7 @@ So for now I'm going with a footer that has:
 
 ```HTML
 <hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:10 ET -- Site updated: <span id="timestamp"></span></p>
-<script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
+<script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
 ```
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
@@ -111,4 +111,4 @@ Unfortunately this utterly failed when I tested this out by using exactly that s
 *#MDwiki #blog | 2020.03.22 01:03 ET*
 
 <hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:48 ET -- Site updated: <span id="timestamp"></span></p>
-<script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
+<script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
