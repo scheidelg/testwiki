@@ -71,4 +71,4 @@ Other markdown references:
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
 <hr class="tight"><p class="timestamp">2020.03.23 10:08 am ET</p>
-<script type="text/javascript">document.write("bob");</script>
+<script type="text/javascript"><!--document.write(document.lastModified);//--></script>
