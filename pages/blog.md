@@ -67,7 +67,7 @@ I tested this out by firing up WireShark, modifying the `blog.md` file, and usin
 
 So even if I ran some JavaScript that bypassed MDwiki and directly retrieved a page's backend `*.md` file to get that specific Last-Modified HTTP response header\[1\], the Last-Modified value would still always be the timestamp of the last commit for the entire repository.
 
-I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file[2](#MDwiki_and_File_Timestamps).  But that's more work then I want to spend on this particular problem right now.
+I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file[2](/pages/tech_editing/markdown_notes.md#Activating_Links_in_New_Windows).  But that's more work then I want to spend on this particular problem right now.
   
 So for now I'm going with a footer that has:
 
@@ -110,5 +110,5 @@ Unfortunately this utterly failed when I tested this out by using exactly that s
 
 *#MDwiki #blog | 2020.03.22 01:03 ET*
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 16:15 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 16:26 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
