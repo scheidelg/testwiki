@@ -19,7 +19,7 @@ Particuarly for any content that might be printed - as opposed to only being rea
 <hr class="tight">
 ## Horizontal Line Break Before H2 Headers
 
-I generally prefer to see a stronger indicator of a new section than just a larger font and a bit of leading white space.  As a rule, insert `<hr class="tight">` before H2 headers.
+I generally prefer to see a stronger indicator of a new section than just a larger font and a bit of leading white space.  As a rule, insert `<hr class="tight">` before H2 headers (unless it's immediately after the page header).
 
 <hr class="tight">
 ## Page Timestamps
@@ -40,5 +40,5 @@ See the [blog entry on timestamps](/pages/blog.md#MDwiki_and_File_Timestamps).
 
 Use italics (i.e., soft-emphasis) for titles of web pages and books.
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:24 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 17:11 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
