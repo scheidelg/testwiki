@@ -59,13 +59,13 @@ My intent was that this would automatically render the modification timestamp fo
 
 Unfortunately a bit of testing showed that when I modified one file (e.g., the `blog.md` file), the timestamp rendered on another page (e.g., the 'home' page that loades the `index.md` file) was updated as well.
 
-* \*le sigh\* *
+<i>*le sigh*</i>
 
 I theorized that when I updated a single file in my GitHub repository, GitHub pushed (or at least 'touched') every file in the repository.  So from the GitHub web server's perspective, every single file is updated every time a single change is committed.
 
-I tested this out by firing up WireShark, modifying the `blog.md` file, and retrieving the `index.md` and `config.json` files directly (e.g., `www.scheidel.net/index.md`, `www.scheidel.net/config.json`).  Sure enough, the packet capture showed that the Last-Modified HTTP response header for those files matched the commit time for the `blog.md` file.
+I tested this out by firing up WireShark, modifying the `blog.md` file, and using a web browser to retrieve the `index.md` and `config.json` files directly (e.g., `www.scheidel.net/index.md`, `www.scheidel.net/config.json`).  Sure enough, the packet capture showed that the Last-Modified HTTP response headers matched the commit time for the `blog.md` file.
 
-So even if I ran some JavaScript that bypassed MDwiki and expressly retrieved the backend `*.md` file (e.g., <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>), the Last-Modified value would still always be the timestamp of the last commit for the entire repository.
+So even if I ran some JavaScript that bypassed MDwiki and directly retrieved the a page's backend `*.md` file to get it's individual Last-Modified HTTP response header (e.g., <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>), the Last-Modified value would still always be the timestamp of the last commit for the entire repository.
 
 I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file (e.g., <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository</a>).  But that's more work then I want to spend on this particular problem right now.
   
