@@ -50,13 +50,13 @@ Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<
 
 Other markdown references:
 
- * **Daring Fireball / Markdown** by John Gruber
+ * *Daring Fireball / Markdown* by John Gruber
  
    The original markdown specification.
    
     <i><a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a></i>
    
- * **Markdown Cheatsheet** by Adam Pritchard
+ * *Markdown Cheatsheet* by Adam Pritchard
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
    
