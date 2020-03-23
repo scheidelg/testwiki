@@ -2,7 +2,7 @@
 
 This is a collection of rules for me to follow when using markdown (primarily on this web site with MDwiki).
 
-OK, maybe they're more like guidelines since there are always edge cases where it doesn't make sense to apply the rules. ;)
+OK, maybe they're more like guidelines. There are always edge cases where it doesn't make sense to apply the rules. ;)
 
 <hr class="tight">
 ## Open External Content in New Windows or Tabs
@@ -40,5 +40,5 @@ See the [blog entry on timestamps](/pages/blog.md#MDwiki_and_File_Timestamps).
 
 Use italics (i.e., soft-emphasis) for titles of web pages and books.
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 17:11 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 17:55 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
