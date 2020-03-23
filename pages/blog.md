@@ -82,6 +82,8 @@ So for now I'm going with a footer that has:
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
 
+<a href="https://www.example.com">asdf</a>
+
 References:
 
  1. *Is it possible to retrieve the last modified date of a file using Javascript?*
