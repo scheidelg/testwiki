@@ -82,7 +82,7 @@ So for now I'm going with a footer that has:
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
 
-<a name="bob">asdf</a>
+<a href="" name="bob">asdf</a>
 
 References:
 
