@@ -1,4 +1,4 @@
-# Markdown Rules - 0
+# Markdown Rules
 
 This is a collection of rules for me to follow when using markdown (primarily on this web site with MDwiki).
 
