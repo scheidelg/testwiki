@@ -2,9 +2,7 @@
 
 # Random
 
- * Change default style so that the column width for main content on a page is smaller (i.e., decrease left and right margins).  That's a *lot* of wasted space to the left and right of the floating sidemenu and main content.
- 
- * Add default 'Navigation' or 'See Also' at the bottom of each page.
+ * See the 'issues' for this repository.
 
 <hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:48 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
