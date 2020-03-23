@@ -55,8 +55,6 @@ However, it was annoying that I'd have to manually update that timestamp every t
 
 This JavaScript a simple hack that retrieves the timestamp from the Last-Modified HTTP response header, converts it to a Date object, and then sets an 'id' tag to the text representation of that Date object. The HTML code `<p id="timestamp"></p>` creates a paragraph that references the value set for the 'id' tag.
 
-<a name="abcd">asdf</a>
-
 My intent was that this would automatically render the modification timestamp for that page without me having to manually edit the text at the bottom of the file.
 
 Unfortunately a bit of testing showed that when I modified one file (e.g., the `blog.md` file), the timestamp rendered on another page (e.g., the 'home' page that loades the `index.md` file) was updated as well.
@@ -112,5 +110,5 @@ Unfortunately this utterly failed when I tested this out by using exactly that s
 
 *#MDwiki #blog | 2020.03.22 01:03 ET*
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:53 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.59 15:53 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
