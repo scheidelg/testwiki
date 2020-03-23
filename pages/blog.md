@@ -82,7 +82,7 @@ So for now I'm going with a footer that has:
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
 
-<a href="" name="bob">asdf</a>
+<a href="" name="bob"></a>
 
 References:
 
@@ -112,5 +112,5 @@ Unfortunately this utterly failed when I tested this out by using exactly that s
 
 *#MDwiki #blog | 2020.03.22 01:03 ET*
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 16:03 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 16:06 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
