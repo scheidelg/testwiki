@@ -50,17 +50,17 @@ Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<
 
 Other markdown references:
 
- * *Daring Fireball / Markdown* by John Gruber
+ * *[https://daringfireball.net/projects/markdown/](Daring Fireball / Markdown)* by John Gruber
  
    The original markdown specification.
    
-    [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
+    [https://daringfireball.net/projects/markdown/]()
    
  * *Markdown Cheatsheet* by Adam Pritchard
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
    
-   [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+   [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]()
 
  * *MDwiki Wiki* by Timo Dörr
  
@@ -68,7 +68,7 @@ Other markdown references:
    
    [http://dynalon.github.io/mdwiki/#!quickstart.md]()
    
-   [http://dynalon.github.io/mdwiki/#!layout.md]
+   [http://dynalon.github.io/mdwiki/#!layout.md]()
 
 <hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:36 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
