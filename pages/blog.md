@@ -71,9 +71,9 @@ I could potentially write some JavaScript code to access the GitHub API and iden
   
 So for now I'm going with a footer that has:
 
- * an automatically updated timestamp from the Last-Modified HTTP response header as the 'site last modified' timestamp, and
+ * an automatically updated timestamp from the Last-Modified HTTP response header as the 'site last updated' timestamp, and
  
- * a manually edited timestamp for the 'page last modified' timestamp.
+ * a manually edited timestamp for the 'page last updated' timestamp.
 
 ```HTML
 <hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:10 ET -- Site updated: <span id="timestamp"></span></p>
@@ -82,9 +82,11 @@ So for now I'm going with a footer that has:
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
 
- (e.g., <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>)
+References:
+
+ 1. <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>
  
- (e.g., <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository</a>)
+ 2. <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository
 
 _**#MDwiki #blog #JavaScript** | 2020.03.23 14:10 ET_
 
