@@ -84,11 +84,11 @@ I'll log this as an 'issue' in my GitHub repository for this site and come back 
 
 References:
 
- 1. *<a name="timestamp_java">Is it possible to retrieve the last modified date of a file using Javascript?</a>*
+ 1. *Is it possible to retrieve the last modified date of a file using Javascript?*
  
  [https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript]()
  
- 2. *<a name="timestamp_github">Get when the file was last updated from a Github repository</a>*
+ 2. *Get when the file was last updated from a Github repository*
  
  [https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository]
 
