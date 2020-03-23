@@ -7737,6 +7737,9 @@ hr.tight {
 /*
  * Create a paragraph style that can be used for timestamp 'footers' at the
  * bottom of each page.
+ *
+ * Note: Instead of creating a top border, I'm using an <hr> above each
+ * timestamp for improved portability if a different them is used.
  */
 p.timestamp {
     margin-bottom:0;
@@ -7790,9 +7793,15 @@ h3 {
 }
 
 /*
- * Update H2 heading style to have a white line above the heading, so that there are separators on the page.
+ * Update H2 heading style to have a white line above the heading, so that
+ * there are separators on the page.
  */
-h2 {
-    padding-top: 10px;
-    border-top:1px solid #ffffff;
-}
+/*
+ * Note: This is commented out because I decided to use <hr> instead for
+ * improved portability if a different them is used.
+ *
+ * h2 {
+ *     padding-top: 10px;
+ *     border-top:1px solid #ffffff;
+ * }
+ */
