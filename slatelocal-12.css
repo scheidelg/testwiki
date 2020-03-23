@@ -7786,3 +7786,11 @@ h2,
 h3 {
     margin-top: 25px;
 }
+
+/*
+ * Update H2 heading style to have a white line above the heading, so that there are separators on the page.
+ */
+h2 {
+    padding-top: 10px;
+    border-top:1px solid white;
+}
