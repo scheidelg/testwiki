@@ -19,7 +19,7 @@ Particuarly for any content that might be printed - as opposed to only being rea
 <hr class="tight">
 ## Horizontal Line Break Before H2 Headers
 
-I generally prefer to see a stronger indicator of a new section than just a larger font and a bit of leading white space.  As a rule, insert `<hr class="tight">` before H2 headers (unless it's immediately after the page header).
+I generally prefer to see a stronger indicator of a new section than just a larger font and a bit of leading white space.  As a rule, insert `<hr class="tight">` before H2 headers (except immediately after the page header).
 
 <hr class="tight">
 ## Page Timestamps
