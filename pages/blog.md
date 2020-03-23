@@ -1,4 +1,4 @@
-# Blog
+# Blog - 1
 
 ## MDwiki and Blogging
 
@@ -13,7 +13,7 @@ MDwiki Blog
 
 Unfortunately this utterly failed when I tested this out by using exactly that same code and then with 'example.com' as the test domain. Since the point of this web site is to have an easy way to collect, manage, and share content and work - and **not** to spend an inordinate amount of time building the web site itself - I'm just letting that go for the moment. I'll do just fine writing notes here with date+time stamps and a bit of extra attention when I post something there.
 
-<p class="timestamp">*#MDwiki #blog* | 2020.03.22 01:03</p>
+_**#MDwiki #blog** | 2020.03.22 01:03_
 
 <hr class="tight"><p class="timestamp" id="timestamp"></p>
 <script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
