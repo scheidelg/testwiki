@@ -7744,6 +7744,7 @@ p.timestamp {
     padding-top: 5px;
     font-size: 75%;
     font-style: italic;
+    border-top:1px solid #ffffff;
 }
 
 /*
