@@ -6,5 +6,5 @@
  
  * Add default 'Navigation' or 'See Also' at the bottom of each page.
  
-<hr class="tight">
-<p class="timestamp">2020.03.22 6:14 pm ET</p>
+<hr class="tight"><p class="timestamp" id="timestamp"></p>
+<script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
