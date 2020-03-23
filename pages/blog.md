@@ -67,7 +67,7 @@ I tested this out by firing up WireShark, modifying the `blog.md` file, and usin
 
 So even if I ran some JavaScript that bypassed MDwiki and directly retrieved a page's backend `*.md` file to get that specific Last-Modified HTTP response header (see reference #1, below), the Last-Modified value would still always be the timestamp of the last commit for the entire repository.
 
-I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file (see reference #2, [below](#timestamp_java)).  But that's more work then I want to spend on this particular problem right now.
+I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file (see reference #2, below).  But that's more work then I want to spend on this particular problem right now.
   
 So for now I'm going with a footer that has:
 
@@ -82,7 +82,7 @@ So for now I'm going with a footer that has:
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
 
-<a href="" name="timestamp_java">References</a>:
+References:
 
  1. *Is it possible to retrieve the last modified date of a file using Javascript?*
  
