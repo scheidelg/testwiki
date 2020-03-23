@@ -15,5 +15,5 @@ bulleted lists with spaces between them
 
 timestamp footers.
 
-<hr class="tight"><p class="timestamp" id="timestamp"></p>
-<script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:48 ET -- Site updated: <span id="timestamp"></span></p>
+<script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
