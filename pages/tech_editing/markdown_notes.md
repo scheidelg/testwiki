@@ -1,4 +1,4 @@
-# Markdown Notes - bob
+# Markdown Notes
 
 This is a collection of markdown notes, tips, and references (primarily for me to use on this web site with MDwiki).
 
@@ -70,5 +70,5 @@ Other markdown references:
    
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
-<hr class="tight"><p class="timestamp" id="datetime"></p>
-<script>document.getElementById("datetime").innerHTML = document.lastModified.toLocaleString();</script>
+<hr class="tight"><p class="timestamp" id="timestamp"></p>
+<script type='text/javascript'>document.getElementById("timestamp").innerHTML = document.lastModified.toLocaleString();</script>
