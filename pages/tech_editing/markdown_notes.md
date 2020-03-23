@@ -1,4 +1,4 @@
-# Markdown Notes -7
+# Markdown Notes
 
 This is a collection of markdown notes, tips, and references (primarily for me to use on this web site with MDwiki).
 
