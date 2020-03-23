@@ -100,5 +100,5 @@ Unfortunately this utterly failed when I tested this out by using exactly that s
 
 _**#MDwiki #blog** | 2020.03.22 01:03 ET_
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:10 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 14:24 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>var timestamp=new Date(document.lastModified); document.getElementById("timestamp").innerHTML = timestamp;</script>
