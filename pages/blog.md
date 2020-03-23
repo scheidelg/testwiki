@@ -65,9 +65,9 @@ I theorized that when I updated a single file in my GitHub repository, GitHub pu
 
 I tested this out by firing up WireShark, modifying the `blog.md` file, and using a web browser to retrieve the `index.md` and `config.json` files directly (e.g., `www.scheidel.net/index.md`, `www.scheidel.net/config.json`).  Sure enough, the packet capture showed that the Last-Modified HTTP response headers matched the commit time for the `blog.md` file.
 
-So even if I ran some JavaScript that bypassed MDwiki and directly retrieved the a page's backend `*.md` file to get it's individual Last-Modified HTTP response header (e.g., <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>), the Last-Modified value would still always be the timestamp of the last commit for the entire repository.
+So even if I ran some JavaScript that bypassed MDwiki and directly retrieved a page's backend `*.md` file to get it's individual Last-Modified HTTP response header\[1\], the Last-Modified value would still always be the timestamp of the last commit for the entire repository.
 
-I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file (e.g., <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository</a>).  But that's more work then I want to spend on this particular problem right now.
+I could potentially write some JavaScript code to access the GitHub API and identify the most commit date for each individual file\[2\].  But that's more work then I want to spend on this particular problem right now.
   
 So for now I'm going with a footer that has:
 
@@ -81,6 +81,10 @@ So for now I'm going with a footer that has:
 ```
 
 I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
+
+ (e.g., <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>)
+ 
+ (e.g., <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository</a>)
 
 _**#MDwiki #blog #JavaScript** | 2020.03.23 14:10 ET_
 
