@@ -50,7 +50,7 @@ Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<
 
 Other markdown references:
 
- * <i><a href="https://daringfireball.net/projects/markdown/">Daring Fireball / Markdown</a></i> by John Gruber
+ * *<a href="https://daringfireball.net/projects/markdown/">Daring Fireball / Markdown</a>* by John Gruber
  
    The original markdown specification.
    
@@ -62,7 +62,7 @@ Other markdown references:
    
    [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]()
 
- * *MDwiki Wiki* by Timo Dörr
+ * *<a href="http://dynalon.github.io/mdwiki">MDwiki Wiki</a>* by Timo Dörr
  
    The MDwiki Wiki documenting how to set up and use MDwiki.  The **Docs** section has multiple pages with useful tips and examples
    
@@ -70,5 +70,5 @@ Other markdown references:
    
    [http://dynalon.github.io/mdwiki/#!layout.md]()
 
-<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:43 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated: 2020.03.23 15:44 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
