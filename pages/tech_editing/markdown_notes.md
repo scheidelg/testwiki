@@ -2,6 +2,7 @@
 
 This is a collection of markdown notes, tips, and references (primarily for me to use on this web site with MDwiki).
 
+<hr>
 ## Quick Reference
 
 A quick reference for things I've used (or started to use) frequently.
@@ -44,6 +45,7 @@ There's an extra step, however, if we want to use the actual URL as the displaye
 Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<span></span>example.<span></span>com</a> to activate the web page.
 ```
 
+<hr>
 ## Other References
 
 Other markdown references:
@@ -68,4 +70,5 @@ Other markdown references:
    
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
-<p class="timestamp">2020.03.22 8:45 pm ET</p>
+<hr class="tight">
+<p class="timestamp">2020.03.23 9:52 am ET</p>
