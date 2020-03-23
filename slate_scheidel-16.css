@@ -7783,9 +7783,8 @@ h6,
 }
 
 /*
- * Update H1, H2, H3 heading styles to increase top margins.
+ * Update H2, H3 heading styles to increase top margins.
  */
-h1,
 h2,
 h3 {
     margin-top: 30px;
