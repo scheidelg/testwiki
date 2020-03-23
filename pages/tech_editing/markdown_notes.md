@@ -56,7 +56,7 @@ Other markdown references:
    
     [https://daringfireball.net/projects/markdown/]()
    
- * *Markdown Cheatsheet* by Adam Pritchard
+ * *<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>* by Adam Pritchard
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
    
