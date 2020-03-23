@@ -1,4 +1,4 @@
-# Markdown Notes - 0
+# Markdown Notes
 
 This is a collection of markdown notes, tips, and references (primarily for me to use on this web site with MDwiki).
 
@@ -50,13 +50,13 @@ Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<
 
 Other markdown references:
 
- * <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball / Markdown</a> by John Gruber
+ * **Daring Fireball / Markdown** by John Gruber
  
    The original markdown specification.
    
     <i><a href="https://daringfireball.net/projects/markdown/" target="_blank">https://<span></span>daringfireball.<span></span>net/projects/markdown/</a></i>
    
- * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> by Adam Pritchard
+ * **Markdown Cheatsheet** by Adam Pritchard
 
    A "quick reference and showcase" for common markdown, providing the markdown to use and examples of what it will look like.
    
