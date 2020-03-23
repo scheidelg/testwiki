@@ -84,9 +84,13 @@ I'll log this as an 'issue' in my GitHub repository for this site and come back 
 
 References:
 
- 1. <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>
+ 1. Is it possible to retrieve the last modified date of a file using Javascript?
  
- 2. <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository
+ <a href="https://stackoverflow.com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/2313620/is-it-possible-to-retrieve-the-last-modified-date-of-a-file-using-javascript</a>
+ 
+ 2. Get when the file was last updated from a Github repository
+ 
+ <a href="https://stackoverflow.com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository" target="_blank">https://<span></span>stackoverflow.<span></span>com/questions/50194241/get-when-the-file-was-last-updated-from-a-github-repository</a>
 
 _**#MDwiki #blog #JavaScript** | 2020.03.23 14:10 ET_
 
