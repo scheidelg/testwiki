@@ -50,7 +50,7 @@ Click <a href="http://www.example.com" target="_blank">http://<span></span>www.<
 
 Other markdown references:
 
- * *[https://daringfireball.net/projects/markdown/](Daring Fireball / Markdown)* by John Gruber
+ * *Daring Fireball / Markdown* by John Gruber
  
    The original markdown specification.
    
