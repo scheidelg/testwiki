@@ -58,7 +58,7 @@
 
   * [Intro](pages/labs_and_challenges/intro.md)
   - - - -
-  * [Local](pages/labs_and_challenges/local.md)
+  * [Homegrown](pages/labs_and_challenges/homegrown.md)
   * [Cyber Defense NetWars v1](pages/labs_and_challenges/cdnw_v1.md)
 
 [Reference Binders](pages/reference_binders.md)
