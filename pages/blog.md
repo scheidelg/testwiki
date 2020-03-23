@@ -80,7 +80,7 @@ So for now I'm going with a footer that has:
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
 ```
 
-I'll log this as an 'issue' in my GitHub repository for this site and come back to this later. <a name="bob">text</a>
+I'll log this as an 'issue' in my GitHub repository for this site and come back to this later.
 
 References:
 
