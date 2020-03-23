@@ -61,6 +61,7 @@ Other markdown references:
    <i><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">https://<span></span>github.<span></span>com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></i>
 
  * <a href="http://dynalon.github.io/mdwiki" target="_blank">MDwiki Wiki</a> by Timo Dörr
+ 
    The MDwiki Wiki documenting how to set up and use MDwiki.  The **Docs** section has multiple pages with useful tips and examples
    
    <i><a href="http://dynalon.github.io/mdwiki/#!quickstart.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!quickstart.md</a></i>
@@ -68,4 +69,4 @@ Other markdown references:
    <i><a href="http://dynalon.github.io/mdwiki/#!layout.md" target="_blank">http://<span></span>dynalon.<span></span>github.<span></span>io/mdwiki/#!layout.md</a></i>
 
 <hr class="tight">
-<p class="timestamp">2020.03.22 8:41 pm ET</p>
+<p class="timestamp">2020.03.22 8:45 pm ET</p>
