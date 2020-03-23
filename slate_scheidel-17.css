@@ -7791,6 +7791,13 @@ h3 {
 }
 
 /*
+ * Decrease page header top margin.
+ */
+.page-header {
+    margin-top: 20px;
+}
+
+/*
  * Update H2 heading style to have a white line above the heading, so that
  * there are separators on the page.
  */
