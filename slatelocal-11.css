@@ -7738,6 +7738,9 @@ hr.tight {
  * bottom of each page.
  */
 p.timestamp {
+    margin-bottom:0;
+    margin-top:0;
+    line-height:0;
     font-size: 50%;
     font-style: italic;
 }
