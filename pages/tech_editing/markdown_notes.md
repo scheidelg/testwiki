@@ -1,6 +1,6 @@
 # Markdown Notes
 
-This is a collection of notes, tips, and rules for me when using markdown (primarily on this web site with MDwiki).
+This is a collection of markdown notes, tips, and references (primarily for me to use on this web site with MDwiki).
 
 ## Quick Reference
 
