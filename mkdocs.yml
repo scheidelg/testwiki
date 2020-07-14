@@ -1,1 +1,18 @@
-site_name: My Docs
+site_name: Greg's Desk
+
+theme:
+    # start with Material for MkDocs
+    # (https://squidfunk.github.io/mkdocs-material/)
+    name: material
+
+    # logo and favicon are the same SVG image; three stacked books, white
+    # fill, transparent background; original version from Freepick on
+    # www.flaticon.com, edited for book color and white fill
+    logo: img/books-filled.svg
+    favicon: img/books-filled.svg
+
+    # Custom theme directory.  Files in this directory get copied into the
+    # site/ directory when running 'mkdocs build' or 'mkdocs gh-deploy';
+    # and/or are used for template blocks (see
+    # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme).
+    custom_dir: customize_theme
