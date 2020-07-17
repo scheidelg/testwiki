@@ -1,4 +1,11 @@
 site_name: Greg's Desk
+site_author: Greg Scheidel
+copyright: Content and images copyright &copy; 2020 <a href="about_me">Greg Scheidel</a>
+site_description: A semi-organized collection of information relating to things I've researched, worked on, or developed; or about which I (think) I have someting useful to say, or just find interesting. Topics trend toward information technology, information security, programming and scripting, technical writing, information technology service management, and program management.  No warranty expressed or implied; use at your own risk; YMMV.
+
+nav:
+    - Home: index.md
+    - About Me: about_me.md
 
 theme:
     # start with Material for MkDocs
@@ -8,11 +15,37 @@ theme:
     # logo and favicon are the same SVG image; three stacked books, white
     # fill, transparent background; original version from Freepick on
     # www.flaticon.com, edited for book color and white fill
-    logo: img/books-filled.svg
-    favicon: img/books-filled.svg
+    logo: assets/images/books-filled.svg
+    favicon: assets/images/books-filled.svg
 
     # Custom theme directory.  Files in this directory get copied into the
     # site/ directory when running 'mkdocs build' or 'mkdocs gh-deploy';
     # and/or are used for template blocks (see
     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme).
     custom_dir: customize_theme
+
+    features:
+        - instant
+
+        # not using 'tabs' feature; need to have content with 3+ levels to
+        # test it
+
+    # Define the site's color scheme, primary color, and accent color.  Play
+    # around with this more after you have more content, to see the effect.
+    # Also figure out how to let the user pick the color scheme, primary
+    # color, accent color, and other color options dynamically.
+    palette:
+        scheme: default
+        primary: blue
+        accent: indigo
+
+extra:
+    social:
+        - icon: fontawesome/brands/github-alt
+          link: https://github.com/scheidelg
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/greg_scheidel
+
+plugins:
+    - search
+    - git-revision-date-localized
