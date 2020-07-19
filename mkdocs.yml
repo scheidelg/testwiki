@@ -1,7 +1,9 @@
 site_name: Greg's Desk
 site_author: Greg Scheidel
-copyright: Content and images copyright &copy; 2020 <a href="about_me">Greg Scheidel</a>
+site_url: https://scheidel.net
 site_description: A semi-organized collection of information relating to things I've researched, worked on, or developed; or about which I (think) I have someting useful to say, or just find interesting. Topics trend toward information technology, information security, programming and scripting, technical writing, information technology service management, and program management.  No warranty expressed or implied; use at your own risk; YMMV.
+
+copyright: Content and images copyright &copy; 2020 <a href="about_me">Greg Scheidel</a>
 
 nav:
     - Home: index.md
@@ -27,9 +29,6 @@ theme:
     features:
         - instant
 
-        # not using 'tabs' feature; need to have content with 3+ levels to
-        # test it
-
     # Define the site's color scheme, primary color, and accent color.  Play
     # around with this more after you have more content, to see the effect.
     # Also figure out how to let the user pick the color scheme, primary
@@ -48,4 +47,11 @@ extra:
 
 plugins:
     - search
-    - git-revision-date-localized
+    - git-revision-date-localized:
+        type: iso_datetime
+        time_zone: US/Eastern
+        locale: en
+        fallback_to_build_date: false
+
+extra_css:
+  - stylesheets/extra.css

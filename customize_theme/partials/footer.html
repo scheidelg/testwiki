@@ -14,7 +14,7 @@
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
-                  {{ lang.t("footer.previous") }}
+                  {{ lang.t("footer.previous") }} /
                 </span>
                 {{ page.previous_page.title }}
               </div>
@@ -25,10 +25,10 @@
           <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  {{ lang.t("footer.next") }}
-                </span>
                 {{ page.next_page.title }}
+                <span class="md-footer-nav__direction">
+                  / {{ lang.t("footer.next") }}
+                </span>
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
@@ -40,7 +40,7 @@
     </div>
   {% endif %}
   <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
+    <div class="md-footer-meta__inner md-grid"">
       <div class="md-footer-copyright">
         {% if config.copyright %}
 	  {{ config.copyright }} -- 
