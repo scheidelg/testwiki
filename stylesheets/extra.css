@@ -1,0 +1,18 @@
+.md-footer-meta__inner {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.md-footer-social {
+    padding: 0.2rem 0 0.2rem;
+}
+
+.md-footer-nav__link {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.md-footer-nav__direction {
+    position: relative;
+    padding: 0;
+}
